@@ -40,6 +40,6 @@ public class UsuarioVolumenTest {
         System.out.println("Tiempo de inserción para " + numRegistros + " registros: " + duration + " ms");
 
         
-        assertTrue(duration < 5000); 
-}
+        assertTrue(duration < 1000); 
+}}
 
